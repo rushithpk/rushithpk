@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Rushith Silva!
+### 🛡️ Aspiring Cyber Security Specialist | AI & Robotics Enthusiast
 
-<!--
-**rushithpk/rushithpk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate tech student currently pursuing a Higher Diploma (HD) in Cyber Security. With a strong foundational background in Information Technology, AI, and Robotics, I am actively building my expertise in Network Security, Linux Systems, and Automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Currently pursuing a **Higher Diploma in Cyber Security**.
+- 📜 Holds a **Diploma in Artificial Intelligence & Robotics**.
+- 📜 Holds a **Diploma in Information Technology**.
+- 💡 Actively strengthening skills in **Linux System Administration** and **Python Development**.
+- 🌐 Knowledgeable in networking fundamentals (**CCNA**).
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### 🔒 Cyber Security & Networking
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+#### 🤖 Programming & AI/Robotics
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+![](https://shields.io)
+
+---
+
+### 📊 GitHub Analytics
+<p align="left">
+  <img src="https://vercel.app" alt="Rushith's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rushith-silva-974954408/)
+[![Gmail](https://shields.io)](mailto:rushithsilva97@gmail.com)
